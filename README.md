@@ -1,4 +1,4 @@
-# PulseChat ⚡
+ii# PulseChat ⚡
 
 > \real-time MERN chat platform** — rooms, private messaging, media sharing, authentication.
 
@@ -31,7 +31,7 @@
 - ✅ Member list panel in rooms
 - ✅ Explore public rooms
 - ✅ Mobile-responsive layout
-- ✅ Nike-style monochrome design system
+- ✅  monochrome design system
 - ✅ Rate limiting + input validation
 
 ---
