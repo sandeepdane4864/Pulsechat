@@ -1,4 +1,4 @@
-ii# PulseChat ⚡
+# PulseChat ⚡
 
 > \real-time MERN chat platform** — rooms, private messaging, media sharing, authentication.
 
